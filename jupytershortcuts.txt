@@ -1,0 +1,22 @@
+Below tools can be used to run python code: 
+=====================================================================
+google colab
+jupyter notebook
+pycharm
+vs code
+
+
+shortcut to run a commad in jupyter notebook
+=======================================================
+- shift + enter
+
+
+============
+cpu
+gpu
+tpu
+
+
+
+
+
